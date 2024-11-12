@@ -30,3 +30,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to content creators and industry analysts who inspired the analytical approach taken in this project.
 
 !-- Replace with actual image link if available -->
+![Screenshot 2024-11-12 114652](https://github.com/user-attachments/assets/59827ef9-3c2b-4af5-87ff-2dfc8fa4dd32)
+![Screenshot 2024-11-12 113228](https://github.com/user-attachments/assets/3531def8-e69b-4cbb-9242-7803bc765a6a)
+![Screenshot 2024-11-12 113211](https://github.com/user-attachments/assets/d226b9cb-c9ad-4506-9d87-b85b03df118b)
